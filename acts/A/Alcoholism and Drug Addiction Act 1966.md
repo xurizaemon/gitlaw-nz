@@ -513,7 +513,7 @@ Section 21(5)(c): amended, on 1 October 1995, by [section 10(3)][68] of the Depa
 
 Compare: 1909 No 30 s 20; 1936 No 58 [s 66][70]
 
-Section 22(1): amended, on 1 October 2002, by [section 58(1)][69] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+Section 22(1): amended, on 1 October 2002, by [section 58(1)][71] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
 
 Section 22(1): amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 
@@ -525,7 +525,7 @@ Section 22(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] 
 
 * Where the managers of an institution where a patient is detained pursuant to an order under [section 9][12] learn that the patient has died (whether within or outside the institution) they shall forthwith notify a constable.
 
-Section 22A: inserted, on 1 January 1989, by [section 46][71] of the Coroners Act 1988 (1988 No 111).
+Section 22A: inserted, on 1 January 1989, by [section 46][72] of the Coroners Act 1988 (1988 No 111).
 
 Section 22A: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of the Policing Act 2008 (2008 No 72).
 
@@ -533,15 +533,15 @@ Section 22A: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][61] of
 
 ##### 23 Appeals against order of District Court Judge
 
-* All the provisions of [Part 6][72] of the Criminal Procedure Act 2011 in respect of appeals against sentence shall apply, with the necessary modifications, to any order for detention and treatment or any order for the return or removal of a patient to an institution on the revocation of an order for leave of absence, made by a District Court Judge or a District Court under this Act, in the same manner as if the person ordered to be so detained and treated or returned or removed had been sentenced to imprisonment:
+* All the provisions of [Part 6][73] of the Criminal Procedure Act 2011 in respect of appeals against sentence shall apply, with the necessary modifications, to any order for detention and treatment or any order for the return or removal of a patient to an institution on the revocation of an order for leave of absence, made by a District Court Judge or a District Court under this Act, in the same manner as if the person ordered to be so detained and treated or returned or removed had been sentenced to imprisonment:
 
 provided that an appeal under this section may be made at any time within 3 weeks after the date on which the order for detention and treatment or return or removal was signed by the District Court Judge.
 
-Compare: 1909 No 30 s 30; 1918 No 8 s 13; 1957 No 87 [s 213][73]
+Compare: 1909 No 30 s 30; 1918 No 8 s 13; 1957 No 87 [s 213][74]
 
 Section 23 heading: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 
-Section 23: amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
+Section 23: amended, on 1 July 2013, by [section 413][75] of the Criminal Procedure Act 2011 (2011 No 81).
 
 Section 23: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 
@@ -555,7 +555,7 @@ Section 23 proviso: amended, on 1 April 1980, pursuant to [section 18(2)][60] of
 
 Compare: 1909 No 30 s 24; 1954 No 50 s 40(1)
 
-Section 24: amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
+Section 24: amended, on 1 July 2013, by [section 413][75] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 25 Escaping from institution
 
@@ -648,13 +648,13 @@ Section 32(1)(c): replaced, on 26 April 2005, by [section 7][62] of the Relation
 
 Section 32(2): replaced, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
-Section 32(4): replaced, on 1 October 2002 by [section 58(1)][69] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+Section 32(4): replaced, on 1 October 2002 by [section 58(1)][71] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
 
 Section 32(4)(a): amended, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 Section 32(4)(b): amended, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
-Section 32(5): inserted, on 1 October 2002 by [section 58(1)][69] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+Section 32(5): inserted, on 1 October 2002 by [section 58(1)][71] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
 
 Section 32(5)(a): amended, on 26 April 2005, by [section 7][62] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
@@ -702,13 +702,13 @@ Section 35(4): amended, on 1 April 1970, pursuant to section 129(1) of the Menta
 
 * Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both.
 
-Section 36: amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
+Section 36: amended, on 1 July 2013, by [section 413][75] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 37 Offences to be punishable on summary conviction
 
 * \[Repealed\]
 
-Section 37: repealed, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
+Section 37: repealed, on 1 July 2013, by [section 413][75] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous provisions
 
@@ -716,7 +716,7 @@ Section 37: repealed, on 1 July 2013, by [section 413][74] of the Criminal Proce
 
 * \[Repealed\]
 
-Section 37A: repealed, on 1 October 2008, by [section 130(1)][75] of the Policing Act 2008 (2008 No 72).
+Section 37A: repealed, on 1 October 2008, by [section 130(1)][76] of the Policing Act 2008 (2008 No 72).
 
 ##### 38 Protection from civil or criminal liability of persons acting under authority of this Act
 
@@ -777,11 +777,11 @@ _Amendment(s) incorporated in the [Act(s)][70]_.
 
 ##### Statutes Amendment Act 1944 (1944 No 25) (1957 Reprint, Vol 13, p 227)
 
-_Amendment(s) incorporated in the [Act(s)][76]_.
+_Amendment(s) incorporated in the [Act(s)][77]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (1957 Reprint, Vol 15, p 406)
 
-_Amendment(s) incorporated in the [Act(s)][77]_.
+_Amendment(s) incorporated in the [Act(s)][78]_.
 
 ---
 
@@ -802,39 +802,39 @@ _Amendment(s) incorporated in the [Act(s)][77]_.
 
 ###### 2 Legal status
 
-* Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][78] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][79] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+* Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][79] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][80] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
 
-* Editorial and format changes to reprints are made using the powers under [sections 24 to 26][80] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][81] ![](/images/external_link.gif).
+* Editorial and format changes to reprints are made using the powers under [sections 24 to 26][81] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][82] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
 
-* Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][56]
+* Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][83]
 
-Criminal Procedure Act 2011 (2011 No 81): [section 413][74]
+Criminal Procedure Act 2011 (2011 No 81): [section 413][84]
 
-Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][61], [130(1)][75]
+Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][85], [130(1)][86]
 
-Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][62]
+Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][87]
 
-Corrections Act 2004 (2004 No 50): [section 206][65]
+Corrections Act 2004 (2004 No 50): [section 206][88]
 
-Health Practitioners Competence Assurance Act 2003 (2003 No 48):[section 175(1)][57]
+Health Practitioners Competence Assurance Act 2003 (2003 No 48):[section 175(1)][89]
 
-Sentencing Act 2002 (2002 No 9): [section 186][63]
+Sentencing Act 2002 (2002 No 9): [section 186][90]
 
 Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][69]
 
-Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][68]
+Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][91]
 
-Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][59]
+Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][92]
 
-Coroners Act 1988 (1988 No 111): [section 46][71]
+Coroners Act 1988 (1988 No 111): [section 46][93]
 
-District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][60]
+District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][94]
 
-Judicature Amendment Act 1979 (1979 No 124): [section 12][67]
+Judicature Amendment Act 1979 (1979 No 124): [section 12][95]
 
 Alcoholism and Drug Addiction Amendment Act 1975 (1975 No 60)
 
@@ -844,7 +844,7 @@ Mental Health Act 1969 (1969 No 16): section 129(1), (6)
 
 Alcoholism and Drug Addiction Act Commencement Order 1968 (SR 1968/210)
 
-[0]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM2998524
+[0]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM2998524#DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1966/0097/latest/whole.html#DLM380087
 [2]: http://www.legislation.govt.nz/act/public/1966/0097/latest/whole.html#DLM380089
 [3]: http://www.legislation.govt.nz/act/public/1966/0097/latest/whole.html#DLM380090
@@ -898,31 +898,45 @@ Alcoholism and Drug Addiction Act Commencement Order 1968 (SR 1968/210)
 [51]: http://www.legislation.govt.nz/act/public/1966/0097/latest/whole.html#DLM380513
 [52]: http://www.legislation.govt.nz/act/public/1966/0097/latest/whole.html#DLM380515
 [53]: http://www.legislation.govt.nz/act/public/1966/0097/latest/whole.html#DLM1925808
-[54]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3339341
-[55]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM204329
+[54]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3339341#DLM3339341
+[55]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM204329#DLM204329
 [56]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3339984
 [57]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM205009
-[58]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM264952
+[58]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM264952#DLM264952
 [59]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM295182
 [60]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM35085
 [61]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM1102349
 [62]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM333795
 [63]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM137267
-[64]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM221717
+[64]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM221717#DLM221717
 [65]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM297136
-[66]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM262175
+[66]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM262175#DLM262175
 [67]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM35049
 [68]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM367235
-[69]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM120905
-[70]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM221716
-[71]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM135060
-[72]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3360366
-[73]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM314305
-[74]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3360714
-[75]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM1102383
-[76]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM237831
-[77]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM314549
-[78]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM2998516
-[79]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM2998515
-[80]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM2998532
-[81]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[69]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM120905#DLM120905
+[70]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM221716#DLM221716
+[71]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM120905
+[72]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM135060
+[73]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3360366#DLM3360366
+[74]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM314305#DLM314305
+[75]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3360714
+[76]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM1102383
+[77]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM237831#DLM237831
+[78]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM314549#DLM314549
+[79]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM2998516#DLM2998516
+[80]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM2998515#DLM2998515
+[81]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM2998532#DLM2998532
+[82]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[83]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3339984#DLM3339984
+[84]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM3360714#DLM3360714
+[85]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM1102349#DLM1102349
+[86]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM1102383#DLM1102383
+[87]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM333795#DLM333795
+[88]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM297136#DLM297136
+[89]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM205009#DLM205009
+[90]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM137267#DLM137267
+[91]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM367235#DLM367235
+[92]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM295182#DLM295182
+[93]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM135060#DLM135060
+[94]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM35085#DLM35085
+[95]: http://www.legislation.govt.nz/act/public/1966/0097/latest/link.aspx?id=DLM35049#DLM35049
