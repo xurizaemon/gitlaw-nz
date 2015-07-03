@@ -307,11 +307,11 @@ Enactments consolidated
 
 ###### 3 Amendments incorporated in this eprint
 
-* Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][27]
+* Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][34]
 
-Property Law Act 2007 (2007 No 91): [section 364(1)][23]
+Property Law Act 2007 (2007 No 91): [section 364(1)][35]
 
-[0]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM2998524
+[0]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM2998524#DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1908/004A/latest/whole.html#DLM137368
 [2]: http://www.legislation.govt.nz/act/public/1908/004A/latest/whole.html#DLM137370
 [3]: http://www.legislation.govt.nz/act/public/1908/004A/latest/whole.html#DLM137371
@@ -335,13 +335,15 @@ Property Law Act 2007 (2007 No 91): [section 364(1)][23]
 [21]: http://www.legislation.govt.nz/act/public/1908/004A/latest/whole.html#DLM137808
 [22]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM178552
 [23]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM969644
-[24]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM4632837
-[25]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM4632962
-[26]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM4632894
+[24]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM4632837#DLM4632837
+[25]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM4632962#DLM4632962
+[26]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM4632894#DLM4632894
 [27]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM5740664
-[28]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM321666
-[29]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM322825
-[30]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM321678
+[28]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM321666#DLM321666
+[29]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM322825#DLM322825
+[30]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM321678#DLM321678
 [31]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM327406
 [32]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM327407
-[33]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM2998516
+[33]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM2998516#DLM2998516
+[34]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM5740664#DLM5740664
+[35]: http://www.legislation.govt.nz/act/public/1908/004A/latest/link.aspx?id=DLM969644#DLM969644
