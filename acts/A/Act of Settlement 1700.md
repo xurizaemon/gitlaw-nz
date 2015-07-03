@@ -121,22 +121,24 @@ In outline, the editorial changes made in reprints under the authority of [secti
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
 
-* Imperial Laws Application Act 1988 (1988 No 112): [section 4(1)][9]
+* Imperial Laws Application Act 1988 (1988 No 112): [section 4(1)][15]
 
-Accession Declaration Act 1910 (1910 10 Edw 7 and 1 Geo 5, c 29 (Imp)): [section 1][8]
+Accession Declaration Act 1910 (1910 10 Edw 7 and 1 Geo 5, c 29 (Imp)): [section 1][16]
 
-[0]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM195466#DLM195466
 [1]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/whole.html#DLM11133
 [2]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/whole.html#DLM11134
 [3]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/whole.html#DLM11137
 [4]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/whole.html#DLM11138
 [5]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/whole.html#DLM11140
 [6]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/whole.html#DLM5283906
-[7]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM12656
+[7]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM12656#DLM12656
 [8]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM12654
 [9]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM135086
 [10]: http://www.pco.parliament.govt.nz/reprints/
-[11]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM195439
+[11]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM195439#DLM195439
 [12]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[13]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM195468
-[14]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM195470
+[13]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM195468#DLM195468
+[14]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM195470#DLM195470
+[15]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM135086#DLM135086
+[16]: http://www.legislation.govt.nz/act/imperial/1700/0002/latest/link.aspx?id=DLM12654#DLM12654
