@@ -5,8 +5,8 @@ Date of assent28 June 1855
 ## Contents
 
 [Title][0]
-    
-*   [Preamble][1]
+
+* [Preamble][1]
 
 [1][2] [Warden, Sub-Warden and Fellows to be a body politic and corporate by name of ""Christ's College, Canterbury""][2]
 
@@ -18,48 +18,46 @@ Date of assent28 June 1855
 ---
 
 In the 19th year of the reign of Her Majesty Queen Victoria
-    
-*   #### Preamble
-    
-    WHEREAS by Letters Patent under the Great Seal, bearing date the 13th day of November 1849, certain persons therein named were constituted a body corporate with perpetual succession and a common seal by the name of the Canterbury Association for founding a Settlement in New Zealand, and by such letters patent the said Association was made able and capable in law, to purchase, receive, and enjoy to it and its successors any goods and chattels whatsoever and wheresoever, and any messuages, lands, tenements, or her hereditaments in New Zealand, and its dependencies, and also to sell, alienate, mortgage, charge, or otherwise dispose of such property as it should think proper, and to act in all the concerns of the said body corporate for the purposes and objects mentioned in the said letters patent as fully and effectually to all intents and purposes whatsoever as any other of Her Majesty's subjects might or could do in their respective concerns, and the purposes and objects of the said Association were in such letters patent declared to be amongst other things for the establishment and maintenance of ecclesiastical and educational institutions in the Settlement so to be founded as aforesaid in connection with the Church of England as by law established:
-    
-    AND WHEREAS, in pursuance of the said letters patent the said Association founded a Settlement in New Zealand, called ""the Canterbury Settlement"", within the Province of Canterbury:
-    
-    AND WHEREAS, under and by virtue of the said letters patent, and of an Act of Parliament, made and passed in the 13th and 14th years of the Reign of Her present Majesty entituled an Act empowering the Canterbury Association to dispose of certain lands in New Zealand, and of a certain other Act of Parliament made and passed in the 14th and 15th years of the Reign of Her said Majesty, entituled an Act to alter and amend an Act empowering the Canterbury Association to dispose of certain lands in New Zealand, and under and by virtue of divers acts, deeds, and things made, done and executed in pursuance of the said letters patent, and Acts of Parliament, the said Association, or some person or persons in trust for it became possessed of, or entitled to divers goods, chattels, and personal estate, and also seised of or entitled to divers messuages, buildings, lands, tenements, hereditaments and real estate for the ecclesiastical and educational purposes mentioned in the said letters patent:
-    
-    AND WHEREAS by a certain Ordinance made and passed by the Superintendent and Provincial Council of the said Province of Canterbury, in the 17th year of the Reign of Her said Majesty Queen Victoria, entituled the [Church Property Trust Ordinance][5], Session II, No 3, it was amongst other things enacted that certain persons therein named, and all such other persons as should be thereafter elected or appointed Trustees under the provisions of the said Ordinance and their successors should be, and they were thereby constituted a body politic, and corporate, by the name of ""The Church Property Trustees"", and by that name should have perpetual succession and a common seal, and be for ever capable in the law, to purchase, receive, possess, and enjoy to them and their successors, any goods and chattels, whatsoever and wheresoever, and any messuages, lands, tenements, and hereditaments in the said Province of Canterbury, and also to lease, sell, alienate, mortgage, charge, or otherwise dispose of such property, as well real as personal as they should think proper, and also to act in the concerns of the said body politic and corporate as effectually as any person or persons might or could do in his or their respective concerns for the purpose and object of establishing and maintaining ecclesiastical and educational institutions within the said Province of Canterbury, and it was by the said Ordinance further enacted that it should be lawful for the said Canterbury Association, and any other person or persons holding in trust for them or his or their agent or agents duly authorised in that behalf to convey and assign to the said Trustees and their successors in trust for ecclesiastical and educational purposes within the said Settlement, all or any part of the real or personal property applicable to ecclesiastical or educational purposes vested in the said Association, or in any other person or persons in trust for them for educational purposes, subject to any terms or conditions which might be agreed on between the Trustees and the said Association, or their agent or agents in their behalf, and such other person or persons in trust for them:
-    
-    AND WHEREAS in pursuance of the said Ordinance by 2 several Deeds bearing date respectively, the 16th and 18th day of May 1855, divers lands, tenements, and hereditaments, theretofore vested in the said Canterbury Association, or in certain Trustees appointed by the said Association upon Trust for the said ecclesiastical and educational purposes within the said Settlement, were conveyed and assured unto the Trustees for the time being of the said [Church Property Trust Ordinance][5] and their successors upon the Trusts of the said Ordinance:
-    
-    AND WHEREAS the said Trustees, being desirous of promoting and establishing educational and ecclesiastical institutions within the said Province of Canterbury in accordance with the doctrine and discipline of the Church of England as now by law established, have by a certain deed or instrument in writing a copy whereof is set forth in the Schedule hereunto annexed founded a College by the name and style of ""Christ's College, Canterbury"", consisting of a Warden, Sub-Warden and Fellows:
-    
-    AND WHEREAS the said Sub-Warden and Fellows are desirous of obtaining for the said College an Ordinance of Incorporation, and it is expedient that the same should be granted accordingly.
+
+* #### Preamble
+
+WHEREAS by Letters Patent under the Great Seal, bearing date the 13th day of November 1849, certain persons therein named were constituted a body corporate with perpetual succession and a common seal by the name of the Canterbury Association for founding a Settlement in New Zealand, and by such letters patent the said Association was made able and capable in law, to purchase, receive, and enjoy to it and its successors any goods and chattels whatsoever and wheresoever, and any messuages, lands, tenements, or her hereditaments in New Zealand, and its dependencies, and also to sell, alienate, mortgage, charge, or otherwise dispose of such property as it should think proper, and to act in all the concerns of the said body corporate for the purposes and objects mentioned in the said letters patent as fully and effectually to all intents and purposes whatsoever as any other of Her Majesty's subjects might or could do in their respective concerns, and the purposes and objects of the said Association were in such letters patent declared to be amongst other things for the establishment and maintenance of ecclesiastical and educational institutions in the Settlement so to be founded as aforesaid in connection with the Church of England as by law established:
+
+AND WHEREAS, in pursuance of the said letters patent the said Association founded a Settlement in New Zealand, called ""the Canterbury Settlement"", within the Province of Canterbury:
+
+AND WHEREAS, under and by virtue of the said letters patent, and of an Act of Parliament, made and passed in the 13th and 14th years of the Reign of Her present Majesty entituled an Act empowering the Canterbury Association to dispose of certain lands in New Zealand, and of a certain other Act of Parliament made and passed in the 14th and 15th years of the Reign of Her said Majesty, entituled an Act to alter and amend an Act empowering the Canterbury Association to dispose of certain lands in New Zealand, and under and by virtue of divers acts, deeds, and things made, done and executed in pursuance of the said letters patent, and Acts of Parliament, the said Association, or some person or persons in trust for it became possessed of, or entitled to divers goods, chattels, and personal estate, and also seised of or entitled to divers messuages, buildings, lands, tenements, hereditaments and real estate for the ecclesiastical and educational purposes mentioned in the said letters patent:
+
+AND WHEREAS by a certain Ordinance made and passed by the Superintendent and Provincial Council of the said Province of Canterbury, in the 17th year of the Reign of Her said Majesty Queen Victoria, entituled the [Church Property Trust Ordinance][5], Session II, No 3, it was amongst other things enacted that certain persons therein named, and all such other persons as should be thereafter elected or appointed Trustees under the provisions of the said Ordinance and their successors should be, and they were thereby constituted a body politic, and corporate, by the name of ""The Church Property Trustees"", and by that name should have perpetual succession and a common seal, and be for ever capable in the law, to purchase, receive, possess, and enjoy to them and their successors, any goods and chattels, whatsoever and wheresoever, and any messuages, lands, tenements, and hereditaments in the said Province of Canterbury, and also to lease, sell, alienate, mortgage, charge, or otherwise dispose of such property, as well real as personal as they should think proper, and also to act in the concerns of the said body politic and corporate as effectually as any person or persons might or could do in his or their respective concerns for the purpose and object of establishing and maintaining ecclesiastical and educational institutions within the said Province of Canterbury, and it was by the said Ordinance further enacted that it should be lawful for the said Canterbury Association, and any other person or persons holding in trust for them or his or their agent or agents duly authorised in that behalf to convey and assign to the said Trustees and their successors in trust for ecclesiastical and educational purposes within the said Settlement, all or any part of the real or personal property applicable to ecclesiastical or educational purposes vested in the said Association, or in any other person or persons in trust for them for educational purposes, subject to any terms or conditions which might be agreed on between the Trustees and the said Association, or their agent or agents in their behalf, and such other person or persons in trust for them:
+
+AND WHEREAS in pursuance of the said Ordinance by 2 several Deeds bearing date respectively, the 16th and 18th day of May 1855, divers lands, tenements, and hereditaments, theretofore vested in the said Canterbury Association, or in certain Trustees appointed by the said Association upon Trust for the said ecclesiastical and educational purposes within the said Settlement, were conveyed and assured unto the Trustees for the time being of the said [Church Property Trust Ordinance][5] and their successors upon the Trusts of the said Ordinance:
+
+AND WHEREAS the said Trustees, being desirous of promoting and establishing educational and ecclesiastical institutions within the said Province of Canterbury in accordance with the doctrine and discipline of the Church of England as now by law established, have by a certain deed or instrument in writing a copy whereof is set forth in the Schedule hereunto annexed founded a College by the name and style of ""Christ's College, Canterbury"", consisting of a Warden, Sub-Warden and Fellows:
+
+AND WHEREAS the said Sub-Warden and Fellows are desirous of obtaining for the said College an Ordinance of Incorporation, and it is expedient that the same should be granted accordingly.
 
 ##### 1 Warden, Sub-Warden and Fellows to be a body politic and corporate by name of ""Christ's College, Canterbury""
-    
-*   The Bishop of the Diocese for the time being the Warden, the Reverend Henry Jacobs Master of Arts the Sub-Warden, together with the Reverend Robert Bateman Paul Master of Arts, the Reverend Octavius Mathias Bachelor of Arts, the Reverend William Wellington Willock Master of Arts, the Reverend James Wilson Master of Arts, the Reverend George Cotterill Bachelor of Arts, James Edward Fitz Gerald Bachelor of Arts, John Bealey Master of Arts, Charles Robert Blakiston, Henry Barnes Gresson Bachelor of Arts, and William John Warburton Hamilton the Fellows, and all such other persons as shall hereafter become Warden or be elected or appointed Sub-Warden or Fellows, and their successors shall be, and they are hereby constituted a body politic and corporate by the name of ""Christ's College, Canterbury"", and by such name they shall have perpetual succession and a common seal with full power and authority by the same name and style to sue and be sued, plead and be impleaded, answer and be answered, defend and be defended, in all Courts of law whatsoever and shall be able and capable in law to purchase, receive, possess, and enjoy to them and their successors any goods, chattels, and personal property whatsoever, and any messuages, lands, buildings, tenements, and hereditaments situate within the said Colony or elsewhere, and that they and their successors shall be able and capable in law to grant, devise, alien, or otherwise dispose of all or any of the property real or personal, belonging to the said college, and also to do all other matters and things incidental or appertaining to a body politic subject to the restrictions and conditions in the said deed or instrument of foundation set forth and contained.
+
+* The Bishop of the Diocese for the time being the Warden, the Reverend Henry Jacobs Master of Arts the Sub-Warden, together with the Reverend Robert Bateman Paul Master of Arts, the Reverend Octavius Mathias Bachelor of Arts, the Reverend William Wellington Willock Master of Arts, the Reverend James Wilson Master of Arts, the Reverend George Cotterill Bachelor of Arts, James Edward Fitz Gerald Bachelor of Arts, John Bealey Master of Arts, Charles Robert Blakiston, Henry Barnes Gresson Bachelor of Arts, and William John Warburton Hamilton the Fellows, and all such other persons as shall hereafter become Warden or be elected or appointed Sub-Warden or Fellows, and their successors shall be, and they are hereby constituted a body politic and corporate by the name of ""Christ's College, Canterbury"", and by such name they shall have perpetual succession and a common seal with full power and authority by the same name and style to sue and be sued, plead and be impleaded, answer and be answered, defend and be defended, in all Courts of law whatsoever and shall be able and capable in law to purchase, receive, possess, and enjoy to them and their successors any goods, chattels, and personal property whatsoever, and any messuages, lands, buildings, tenements, and hereditaments situate within the said Colony or elsewhere, and that they and their successors shall be able and capable in law to grant, devise, alien, or otherwise dispose of all or any of the property real or personal, belonging to the said college, and also to do all other matters and things incidental or appertaining to a body politic subject to the restrictions and conditions in the said deed or instrument of foundation set forth and contained.
 
 ##### 2 Title
-    
-*   This Ordinance shall be entituled Christ's College Ordinance, Session IV, No 4, and may be cited by such title.
-    
-    JAMES EDWARD FITZ GERALD
-    
-    SUPERINTENDENT
-    
-    
-    
-    Passed the Provincial Council, on the 27th day of June, and assented to by His Honour the Superintendent, on behalf of His Excellency the Governor, on the 28th day of June, in the year of Our Lord, 1855\.
-    
-    CHARLES BOWEN
-    
-    SPEAKER
-    
-    GEORGE A E ROSS
-    
-    CLERK TO THE COUNCIL
-    
-    
+
+* This Ordinance shall be entituled Christ's College Ordinance, Session IV, No 4, and may be cited by such title.
+
+JAMES EDWARD FITZ GERALD
+
+SUPERINTENDENT
+
+
+
+Passed the Provincial Council, on the 27th day of June, and assented to by His Honour the Superintendent, on behalf of His Excellency the Governor, on the 28th day of June, in the year of Our Lord, 1855\.
+
+CHARLES BOWEN
+
+SPEAKER
+
+GEORGE A E ROSS
+
+CLERK TO THE COUNCIL
 
 ---
 
@@ -71,11 +69,9 @@ In the name of God, Amen. We the Church Property Trustees duly appointed, nomina
 Provided, nevertheless, that immediately, or so soon as conveniently may be after every such sale the proceeds thereof shall be re-invested in lands, tenements, and hereditaments within the said Province of the like tenure to be duly conveyed to and held by the Warden, Sub-Warden and Fellows of the said College for the time being upon and for the like uses and trusts as are in these presents declared concerning the lands, tenements, and hereditaments which shall have been so sold as last aforesaid, or as near thereto as circumstances will admit of, and upon or for no other use or trust whatsoever. But save as aforesaid it shall not be lawful for the said Warden, Sub-Warden, and Fellows to alienate, mortgage, charge, or demise the said lands. tenements, or hereditaments, or any other lands, tenements, or hereditaments, to which the said College may become entitled by grant, purchase or otherwise, unless under the authority of an Ordinance or Ordinances of the Provincial Council of the said Province to be made in that behalf, except by way of lease for a term not exceeding 31 years from the time when such lease shall be made, in and by which lease there shall be reserved and made payable during the whole of the tem thereby granted the best yearly rent that can be reasonably procured for the same without any fine or premium:
 
 IN WITNESS WHEREOF we the said Church Property Trustees, have to this deed and also to the 2 Schedules hereunto annexed, affixed our Corporate Seal, this 21st day of May, in the year of our Lord, 1855\.
-    
-*   Schedule 1 (lands vested) and Schedule 2 (governing statutes) narrated details as at the time of foundation, and have been omitted.
-*   Clause 1 of the Christ's College Amendment Ordinance 1858 provided that it shall be lawful for the Body Politic and Corporate , and it was empowered, to alter, vary, break, and renew the said seal at their discretion.
 
-
+* Schedule 1 (lands vested) and Schedule 2 (governing statutes) narrated details as at the time of foundation, and have been omitted.
+* Clause 1 of the Christ's College Amendment Ordinance 1858 provided that it shall be lawful for the Body Politic and Corporate , and it was empowered, to alter, vary, break, and renew the said seal at their discretion.
 
 [0]: http://www.legislation.govt.nz/act/provincial/1855/0004/latest/whole.html#DLM123968
 [1]: http://www.legislation.govt.nz/act/provincial/1855/0004/latest/whole.html#DLM123969
