@@ -268,9 +268,9 @@ In outline, the editorial changes made in reprints under the authority of [secti
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
 
-* State-Owned Enterprises Amendment Act 2004 (2004 No 116): [section 5][23]
+* State-Owned Enterprises Amendment Act 2004 (2004 No 116): [section 5][29]
 
-[0]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM195466#DLM195466
 [1]: http://www.legislation.govt.nz/act/public/1991/0036/latest/whole.html#DLM2800102
 [2]: http://www.legislation.govt.nz/act/public/1991/0036/latest/whole.html#DLM229515
 [3]: http://www.legislation.govt.nz/act/public/1991/0036/latest/whole.html#DLM229516
@@ -292,10 +292,11 @@ In outline, the editorial changes made in reprints under the authority of [secti
 [19]: http://www.legislation.govt.nz/act/public/1991/0036/latest/whole.html#DLM229568
 [20]: http://www.legislation.govt.nz/act/public/1991/0036/latest/whole.html#DLM229571
 [21]: http://www.legislation.govt.nz/act/public/1991/0036/latest/whole.html#DLM229573
-[22]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM99925
+[22]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM99925#DLM99925
 [23]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM333210
 [24]: http://www.pco.parliament.govt.nz/reprints/
-[25]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM195439
+[25]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM195439#DLM195439
 [26]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[27]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM195468
-[28]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM195470
+[27]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM195468#DLM195468
+[28]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM195470#DLM195470
+[29]: http://www.legislation.govt.nz/act/public/1991/0036/latest/link.aspx?id=DLM333210#DLM333210
