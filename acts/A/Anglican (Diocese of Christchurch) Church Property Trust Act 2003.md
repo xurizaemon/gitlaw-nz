@@ -195,7 +195,7 @@ Preliminary
 * The purpose of this Act is to---
   * (a) consolidate and amend the Church Property Trust Ordinance 1854 (C) and the Church Property Trust (Canterbury) Act 1879 and their amendments; and
   * (b) widen the investment powers of trustees who hold real and personal property on trusts relating to the Anglican Diocese of Christchurch; and
-  * (c) apply the variation of trusts provisions in the [Anglican Church Trusts Act 1981][68] to trusts under this Act.
+  * (c) apply the variation of trusts provisions in the [Anglican Church Trusts Act 1981][69] to trusts under this Act.
 
 ##### 4 Interpretation
 
@@ -253,7 +253,7 @@ _property_---
 
 _sale_ includes exchange
 
-_spouse_ includes a de facto partner as defined in [section 2C][69] of the Property (Relationships) Act 1976
+_spouse_ includes a de facto partner as defined in [section 2C][70] of the Property (Relationships) Act 1976
 
 _standing committee_ means the group of persons appointed by the Synod under Part E of the constitution as the standing committee
 
@@ -292,7 +292,7 @@ Compare: 1854 No 4 (C) s 2
 
 ##### 7 Powers of Church Property Trustees
 
-* (1) For the purpose of carrying out its function, the Church Property Trustees may exercise the powers set out in [Schedule 1][65] and in the [Trustee Act 1956][70].
+* (1) For the purpose of carrying out its function, the Church Property Trustees may exercise the powers set out in [Schedule 1][65] and in the [Trustee Act 1956][71].
 
 (2) The Church Property Trustees must exercise its powers subject to any authorisations that this Act requires to be given by the Synod or other body or person.
 
@@ -314,7 +314,7 @@ Compare: 1859 No 6 (C) s 1
 
 (5) The following persons must not be elected as a trustee---
   * (a) a person who is an undischarged bankrupt:
-  * (b) a person who is subject to a property order under [section 30][71] or [section 31][72] of the Protection of Personal and Property Rights Act 1988:
+  * (b) a person who is subject to a property order under [section 30][72] or [section 31][73] of the Protection of Personal and Property Rights Act 1988:
   * (c) a person who has been convicted of a criminal offence.
 
 (6) A trustee may resign by writing addressed to the Bishop and delivered to the office of the diocese.
@@ -807,11 +807,11 @@ Miscellaneous provisions
 
 ##### 51 Power of Church Property Trustees to act together with other persons
 
-* The Church Property Trustees continues to be an authorised trust board (as defined in the [Anglican Church Trusts Act 1981][68]), and [Part 1][73] of that Act continues to apply accordingly.
+* The Church Property Trustees continues to be an authorised trust board (as defined in the [Anglican Church Trusts Act 1981][69]), and [Part 1][74] of that Act continues to apply accordingly.
 
 ##### 52 Variation of trusts under Anglican Church Trusts Act 1981
 
-* [Part 3][74] of the Anglican Church Trusts Act 1981 applies to the trust funds and trust property as if the funds and property were trust property as defined in [section 11][75] of that Act.
+* [Part 3][75] of the Anglican Church Trusts Act 1981 applies to the trust funds and trust property as if the funds and property were trust property as defined in [section 11][76] of that Act.
 
 ##### 53 Costs and charges
 
@@ -823,7 +823,7 @@ Miscellaneous provisions
 
 (2) A reference in a document to an enactment repealed by this Act is to be treated as a reference to this Act.
 
-(3) This section is in addition to [section 22][76] of the Interpretation Act 1999\.
+(3) This section is in addition to [section 22][77] of the Interpretation Act 1999\.
 
 ---
 
@@ -836,13 +836,13 @@ Powers of the Church Property Trustees
 
 * 2 Power of exchange for any other property, whether real or personal, with power to pay or to receive any money for equality of exchange.
 
-* 3 Power to lend money with or without security, and without limitation, and in whatever manner the Church Property Trustees thinks fit; including power to lend without limitation, whether by contributory mortgage or not, on freehold or leasehold land or land held under the [Unit Titles Act 2010][77], despite any enactment to the contrary.
+* 3 Power to lend money with or without security, and without limitation, and in whatever manner the Church Property Trustees thinks fit; including power to lend without limitation, whether by contributory mortgage or not, on freehold or leasehold land or land held under the [Unit Titles Act 2010][78], despite any enactment to the contrary.
 
 * 4 Power to lease in such manner and on such terms or conditions as the Church Property Trustees thinks fit for any term of years not exceeding 21 years.
 
 * 5 Power to accept, on such terms and conditions as the Church Property Trustees thinks fit, a surrender of any lease, whether with respect to the whole or to any part of the land comprised in the lease; with power if it thinks fit to expend trust funds in the purchase of any improvements of any such land.
 
-* 6 Power to invest in any manner authorised under [Part 2][78] of the Trustee Act 1956\.
+* 6 Power to invest in any manner authorised under [Part 2][79] of the Trustee Act 1956\.
 
 * 7 Power to borrow, with or without security, and without limitation, and in whatever manner the Trustees thinks fit.
 
@@ -866,11 +866,11 @@ Powers of the Church Property Trustees
 
 * 17 Power to enter into such contracts and do or perform such things as in the opinion of the Church Property Trustees will be for the benefit of any trust administered by it.
 
-* 18 Power to act as an advisory trustee in accordance with [section 49][79] of the Trustee Act 1956\.
+* 18 Power to act as an advisory trustee in accordance with [section 49][80] of the Trustee Act 1956\.
 
 * 19 Power to charge fees, including a percentage commission, on all assets administered and on income received.
 
-* Schedule 1 clause 3: amended, on 20 June 2011, by [section 233(1)][80] of the Unit Titles Act 2010 (2010 No 22).
+* Schedule 1 clause 3: amended, on 20 June 2011, by [section 233(1)][81] of the Unit Titles Act 2010 (2010 No 22).
 
 ---
 
@@ -1020,21 +1020,21 @@ Enactments repealed
 
 * This is a reprint of the Anglican (Diocese of Christchurch) Church Property Trust Act 2003\. The reprint incorporates all the amendments to the Act as at 20 June 2011, as specified in the list of amendments at the end of these notes.
 
-Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][81] ![](/images/external_link.gif).
+Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][82] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
 
-* Under [section 16D][82] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+* Under [section 16D][83] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
 
 This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
 
-* A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][83] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+* A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][84] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
 
-* [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][84] and [17E][85] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+* [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][85] and [17E][86] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
 
 A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
 
@@ -1058,9 +1058,9 @@ In outline, the editorial changes made in reprints under the authority of [secti
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
 
-* Unit Titles Act 2010 (2010 No 22): [section 233(1)][80]
+* Unit Titles Act 2010 (2010 No 22): [section 233(1)][87]
 
-[0]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM195466#DLM195466
 [1]: http://www.legislation.govt.nz/act/private/2003/0001/latest/whole.html#DLM2274101
 [2]: http://www.legislation.govt.nz/act/private/2003/0001/latest/whole.html#DLM121658
 [3]: http://www.legislation.govt.nz/act/private/2003/0001/latest/whole.html#DLM121659
@@ -1128,21 +1128,23 @@ In outline, the editorial changes made in reprints under the authority of [secti
 [65]: http://www.legislation.govt.nz/act/private/2003/0001/latest/whole.html#DLM121973
 [66]: http://www.legislation.govt.nz/act/private/2003/0001/latest/whole.html#DLM121993
 [67]: http://www.legislation.govt.nz/act/private/2003/0001/latest/whole.html#DLM122304
-[68]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM110087
-[69]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM441110
-[70]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM304703
-[71]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM127009
-[72]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM127010
-[73]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM110608
-[74]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM110617
-[75]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM110095
-[76]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM31491
-[77]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM1160400
-[78]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM305061
-[79]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM305512
-[80]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM1160866
-[81]: http://www.pco.parliament.govt.nz/reprints/
-[82]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM195439
-[83]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[84]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM195468
-[85]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM195470
+[68]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM110087#DLM110087
+[69]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM110087
+[70]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM441110#DLM441110
+[71]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM304703
+[72]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM127009#DLM127009
+[73]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM127010#DLM127010
+[74]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM110608#DLM110608
+[75]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM110617#DLM110617
+[76]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM110095#DLM110095
+[77]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM31491#DLM31491
+[78]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM1160400#DLM1160400
+[79]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM305061#DLM305061
+[80]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM305512#DLM305512
+[81]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM1160866
+[82]: http://www.pco.parliament.govt.nz/reprints/
+[83]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM195439#DLM195439
+[84]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[85]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM195468#DLM195468
+[86]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM195470#DLM195470
+[87]: http://www.legislation.govt.nz/act/private/2003/0001/latest/link.aspx?id=DLM1160866#DLM1160866
