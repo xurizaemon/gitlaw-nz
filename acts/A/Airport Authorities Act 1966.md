@@ -660,59 +660,59 @@ _Amendment(s) incorporated in the [Act(s)][85]._
 
 ###### 4 Amendments incorporated in this reprint
 
-* Companies Amendment Act 2013 (2013 No 111): [section 14][34]
+* Companies Amendment Act 2013 (2013 No 111): [section 14][90]
 
-Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 150][35]
+Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 150][91]
 
-Legislation Act 2012 (2012 No 119): [section 77(3)][78]
+Legislation Act 2012 (2012 No 119): [section 77(3)][92]
 
-Criminal Procedure Act 2011 (2011 No 81): [section 413][80]
+Criminal Procedure Act 2011 (2011 No 81): [section 413][93]
 
-Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][79]
+Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][94]
 
-Commerce Amendment Act 2008 (2008 No 70): [section 32][60]
+Commerce Amendment Act 2008 (2008 No 70): [section 32][95]
 
-Local Government Act 2002 (2002 No 84): [section 262][36]
+Local Government Act 2002 (2002 No 84): [section 262][96]
 
-Public Audit Act 2001 (2001 No 10): [section 52][76]
+Public Audit Act 2001 (2001 No 10): [section 52][97]
 
-[Airport Authorities Amendment Act 2000][90] (2000 No 37)
+[Airport Authorities Amendment Act 2000][98] (2000 No 37)
 
-[Airport Authorities Amendment Act 1997][91] (1997 No 90)
+[Airport Authorities Amendment Act 1997][99] (1997 No 90)
 
-Arbitration Act 1996 (1996 No 99): [section 20][92]
+Arbitration Act 1996 (1996 No 99): [section 20][100]
 
-[Airport Authorities Amendment Act 1996][93] (1996 No 93)
+[Airport Authorities Amendment Act 1996][101] (1996 No 93)
 
-Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 16(1)][40]
+Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 16(1)][102]
 
-Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][33]
+Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][103]
 
 Airport Authorities Amendment Act 1993 (1993 No 72)
 
-Civil Aviation Amendment Act 1992 (1992 No 75): [sections 39][47], [46(3)][38]
+Civil Aviation Amendment Act 1992 (1992 No 75): [sections 39][104], [46(3)][105]
 
-Resource Management Act 1991 (1991 No 69): [section 362][54]
+Resource Management Act 1991 (1991 No 69): [section 362][106]
 
-Civil Aviation Act 1990 (1990 No 98): [sections 101(3)][51], [102(1)][37]
+Civil Aviation Act 1990 (1990 No 98): [sections 101(3)][107], [102(1)][108]
 
-Public Finance Act 1989 (1989 No 44): [section 83(7)][46]
+Public Finance Act 1989 (1989 No 44): [section 83(7)][109]
 
-Finance Act (No 2) 1988 (1988 No 128): [section 27][45]
+Finance Act (No 2) 1988 (1988 No 128): [section 27][110]
 
 Airport Authorities Amendment Act 1988 (1988 No 49)
 
 Airport Authorities Amendment Act 1986 (1986 No 128)
 
-Public Works Act 1981 (1981 No 35): [section 248(1)][62]
+Public Works Act 1981 (1981 No 35): [section 248(1)][111]
 
-Reserves Act 1977 (1977 No 66): [section 125(1)][77]
+Reserves Act 1977 (1977 No 66): [section 125(1)][112]
 
 Ministry of Transport Amendment Act 1973 (1973 No 6): section 6(1)
 
 Airport Authorities Amendment Act 1968 (1968 No 66)
 
-[0]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998524
+[0]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998524#DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1966/0051/latest/whole.html#DLM379826
 [2]: http://www.legislation.govt.nz/act/public/1966/0051/latest/whole.html#DLM379828
 [3]: http://www.legislation.govt.nz/act/public/1966/0051/latest/whole.html#DLM379829
@@ -740,10 +740,10 @@ Airport Authorities Amendment Act 1968 (1968 No 66)
 [25]: http://www.legislation.govt.nz/act/public/1966/0051/latest/whole.html#DLM380073
 [26]: http://www.legislation.govt.nz/act/public/1966/0051/latest/whole.html#DLM380075
 [27]: http://www.legislation.govt.nz/act/public/1966/0051/latest/whole.html#DLM380076
-[28]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM319569
-[29]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM4090911
-[30]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM170872
-[31]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM217805
+[28]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM319569#DLM319569
+[29]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM4090911#DLM4090911
+[30]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM170872#DLM170872
+[31]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM217805#DLM217805
 [32]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417060
 [33]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM328986
 [34]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM5620822
@@ -753,9 +753,9 @@ Airport Authorities Amendment Act 1968 (1968 No 66)
 [38]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM269420
 [39]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417061
 [40]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM394152
-[41]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM46055
-[42]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM46068
-[43]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM444304
+[41]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM46055#DLM46055
+[42]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM46068#DLM46068
+[43]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM444304#DLM444304
 [44]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403218
 [45]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM136191
 [46]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM163167
@@ -765,44 +765,63 @@ Airport Authorities Amendment Act 1968 (1968 No 66)
 [50]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403221
 [51]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218728
 [52]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403222
-[53]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM45460
+[53]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM45460#DLM45460
 [54]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM239393
 [55]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417062
-[56]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM216377
-[57]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218720
-[58]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88405
-[59]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88433
+[56]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM216377#DLM216377
+[57]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218720#DLM218720
+[58]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88405#DLM88405
+[59]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88433#DLM88433
 [60]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM1194784
-[61]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM48325
+[61]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM48325#DLM48325
 [62]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM48604
-[63]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM47308
-[64]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM420324
-[65]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM231942
-[66]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM236786
+[63]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM47308#DLM47308
+[64]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM420324#DLM420324
+[65]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM231942#DLM231942
+[66]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM236786#DLM236786
 [67]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM405708
 [68]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403223
 [69]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417063
-[70]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM214686
-[71]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2997643
-[72]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998573
-[73]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM433612
-[74]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2609705
+[70]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM214686#DLM214686
+[71]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2997643#DLM2997643
+[72]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998573#DLM2998573
+[73]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM433612#DLM433612
+[74]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2609705#DLM2609705
 [75]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403224
 [76]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88956
 [77]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM445092
 [78]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998633
 [79]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM3231152
 [80]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM3360714
-[81]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM1685746
-[82]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM125376
-[83]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM211896
+[81]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM1685746#DLM1685746
+[82]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM125376#DLM125376
+[83]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM211896#DLM211896
 [84]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417064
-[85]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM221336
-[86]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998516
-[87]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998515
-[88]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998532
+[85]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM221336#DLM221336
+[86]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998516#DLM2998516
+[87]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998515#DLM2998515
+[88]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998532#DLM2998532
 [89]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[90]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM68369
-[91]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417054
-[92]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM405710
-[93]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403212
+[90]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM5620822#DLM5620822
+[91]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM5561603#DLM5561603
+[92]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM2998633#DLM2998633
+[93]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM3360714#DLM3360714
+[94]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM3231152#DLM3231152
+[95]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM1194784#DLM1194784
+[96]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM174088#DLM174088
+[97]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM88956#DLM88956
+[98]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM68369#DLM68369
+[99]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM417054#DLM417054
+[100]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM405710#DLM405710
+[101]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM403212#DLM403212
+[102]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM394152#DLM394152
+[103]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM328986#DLM328986
+[104]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM269410#DLM269410
+[105]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM269420#DLM269420
+[106]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM239393#DLM239393
+[107]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218728#DLM218728
+[108]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM218729#DLM218729
+[109]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM163167#DLM163167
+[110]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM136191#DLM136191
+[111]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM48604#DLM48604
+[112]: http://www.legislation.govt.nz/act/public/1966/0051/latest/link.aspx?id=DLM445092#DLM445092
