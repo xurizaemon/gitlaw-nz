@@ -205,9 +205,9 @@ Relevant provisions of any amending enactments that contain transitional, saving
 
 ###### 3 List of amendments incorporated in this eprint (most recent first)
 
-* Criminal Procedure Act 2011 (2011 No 81): [section 413][26]
+* Criminal Procedure Act 2011 (2011 No 81): [section 413][30]
 
-[0]: http://www.legislation.govt.nz/act/local/1881/0016/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/local/1881/0016/latest/link.aspx?id=DLM195466#DLM195466
 [1]: http://www.legislation.govt.nz/act/local/1881/0016/latest/whole.html#DLM15388
 [2]: http://www.legislation.govt.nz/act/local/1881/0016/latest/whole.html#DLM15389
 [3]: http://www.legislation.govt.nz/act/local/1881/0016/latest/whole.html#DLM15393
@@ -237,3 +237,4 @@ Relevant provisions of any amending enactments that contain transitional, saving
 [27]: http://www.legislation.govt.nz/act/local/1881/0016/latest/link.aspx?id=DLM257454
 [28]: http://www.legislation.govt.nz/act/local/1881/0016/latest/link.aspx?id=DLM258285
 [29]: http://www.pco.parliament.govt.nz/eprints/
+[30]: http://www.legislation.govt.nz/act/local/1881/0016/latest/link.aspx?id=DLM3360714#DLM3360714
