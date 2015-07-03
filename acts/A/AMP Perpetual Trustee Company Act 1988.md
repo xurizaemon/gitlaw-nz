@@ -270,7 +270,7 @@ In outline, the editorial changes made in reprints under the authority of [secti
 
 * Public Trust Act 2001 (2001 No 100): [section 152(1)][26]
 
-[0]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM195466#DLM195466
 [1]: http://www.legislation.govt.nz/act/private/1988/0001/latest/whole.html#DLM113227
 [2]: http://www.legislation.govt.nz/act/private/1988/0001/latest/whole.html#DLM113228
 [3]: http://www.legislation.govt.nz/act/private/1988/0001/latest/whole.html#DLM113231
@@ -294,12 +294,12 @@ In outline, the editorial changes made in reprints under the authority of [secti
 [21]: http://www.legislation.govt.nz/act/private/1988/0001/latest/whole.html#DLM113266
 [22]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM381179
 [23]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM398422
-[24]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM381750
-[25]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM381445
+[24]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM381750#DLM381750
+[25]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM381445#DLM381445
 [26]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM124504
-[27]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM381185
+[27]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM381185#DLM381185
 [28]: http://www.pco.parliament.govt.nz/reprints/
-[29]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM195439
+[29]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM195439#DLM195439
 [30]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[31]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM195468
-[32]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM195470
+[31]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM195468#DLM195468
+[32]: http://www.legislation.govt.nz/act/private/1988/0001/latest/link.aspx?id=DLM195470#DLM195470
