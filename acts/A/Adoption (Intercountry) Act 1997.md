@@ -898,15 +898,15 @@ In outline, the editorial changes made in reprints under the authority of [secti
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
 
-* Privacy (Cross-border Information) Amendment Act 2010 (2010 No 113): [section 12][45]
+* Privacy (Cross-border Information) Amendment Act 2010 (2010 No 113): [section 12][56]
 
-Public Records Act 2005 (2005 No 40): [section 67(1)][44]
+Public Records Act 2005 (2005 No 40): [section 67(1)][57]
 
 Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 13][41]
 
-[Adoption (Intercountry) Act Commencement Order 1998][39] (SR 1998/427)
+[Adoption (Intercountry) Act Commencement Order 1998][58] (SR 1998/427)
 
-[0]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM195466#DLM195466
 [1]: http://www.legislation.govt.nz/act/public/1997/0109/latest/whole.html#DLM422496
 [2]: http://www.legislation.govt.nz/act/public/1997/0109/latest/whole.html#DLM422498
 [3]: http://www.legislation.govt.nz/act/public/1997/0109/latest/whole.html#DLM422499
@@ -946,19 +946,22 @@ Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 1
 [37]: http://www.legislation.govt.nz/act/public/1997/0109/latest/whole.html#DLM423068
 [38]: http://www.legislation.govt.nz/act/public/1997/0109/latest/whole.html#DLM423069
 [39]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM267949
-[40]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM147087
+[40]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM147087#DLM147087
 [41]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM31416
-[42]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM292660
-[43]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM345528
+[42]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM292660#DLM292660
+[43]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM345528#DLM345528
 [44]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM346105
 [45]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM1362836
-[46]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM293323
-[47]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM293330
-[48]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM293334
-[49]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM443820
-[50]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM364145
+[46]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM293323#DLM293323
+[47]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM293330#DLM293330
+[48]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM293334#DLM293334
+[49]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM443820#DLM443820
+[50]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM364145#DLM364145
 [51]: http://www.pco.parliament.govt.nz/reprints/
-[52]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM195439
+[52]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM195439#DLM195439
 [53]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[54]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM195468
-[55]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM195470
+[54]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM195468#DLM195468
+[55]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM195470#DLM195470
+[56]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM1362836#DLM1362836
+[57]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM346105#DLM346105
+[58]: http://www.legislation.govt.nz/act/public/1997/0109/latest/link.aspx?id=DLM267949#DLM267949
