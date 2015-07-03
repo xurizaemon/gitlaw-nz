@@ -496,12 +496,12 @@ In outline, the editorial changes made in reprints under the authority of [secti
 
 * [Anglican Trust for Women and Children Amendment Act 1975][27] (1975 No 3 (P))
 
-Public Bodies Leases Act 1969 (1969 No 141): [section 28(1)(a)][24]
+Public Bodies Leases Act 1969 (1969 No 141): [section 28(1)(a)][33]
 
-[Anglican Trust for Women and Children Amendment Act 1968][33] (1968 No 4 (P))
+[Anglican Trust for Women and Children Amendment Act 1968][34] (1968 No 4 (P))
 
 [0]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM109032
-[1]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM195466#DLM195466
 [2]: http://www.legislation.govt.nz/act/private/1962/0004/latest/whole.html#DLM103849
 [3]: http://www.legislation.govt.nz/act/private/1962/0004/latest/whole.html#DLM103850
 [4]: http://www.legislation.govt.nz/act/private/1962/0004/latest/whole.html#DLM103853
@@ -527,10 +527,11 @@ Public Bodies Leases Act 1969 (1969 No 141): [section 28(1)(a)][24]
 [24]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM395424
 [25]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM109047
 [26]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM105893
-[27]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM109024
+[27]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM109024#DLM109024
 [28]: http://www.pco.parliament.govt.nz/reprints/
-[29]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM195439
+[29]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM195439#DLM195439
 [30]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[31]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM195468
-[32]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM195470
-[33]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM105872
+[31]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM195468#DLM195468
+[32]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM195470#DLM195470
+[33]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM395424#DLM395424
+[34]: http://www.legislation.govt.nz/act/private/1962/0004/latest/link.aspx?id=DLM105872#DLM105872
