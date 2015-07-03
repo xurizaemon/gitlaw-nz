@@ -451,49 +451,49 @@ In outline, the editorial changes made in reprints under the authority of [secti
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
 
-* Crimes Amendment Act 2005 (2005 No 41): [section 11][31]
+* Crimes Amendment Act 2005 (2005 No 41): [section 11][54]
 
 Guardianship Amendment Act 1998 (1998 No 48): section 8
 
-Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 150(1)][32]
+Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 150(1)][55]
 
-Customs and Excise Act 1996 (1996 No 27): [section 290(1)][33]
+Customs and Excise Act 1996 (1996 No 27): [section 290(1)][56]
 
-Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16): [section 96][34]
+Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16): [section 96][57]
 
 Hospitals Amendment Act 1993 (1993 No 26): section 4(2)(e)
 
-Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(1)][35]
+Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(1)][58]
 
-Health and Safety in Employment Act 1992 (1992 No 96): [section 62(1)][36]
+Health and Safety in Employment Act 1992 (1992 No 96): [section 62(1)][59]
 
-Post Office Act Repeal Act 1987 (1987 No 115): [section 2(2)][37]
+Post Office Act Repeal Act 1987 (1987 No 115): [section 2(2)][60]
 
-Finance Act 1986 (1986 No 134): [section 8(1)][38]
+Finance Act 1986 (1986 No 134): [section 8(1)][61]
 
-Constitution Act 1986 (1986 No 114): [section 29(2)][14]
+Constitution Act 1986 (1986 No 114): [section 29(2)][62]
 
 Child Care Centre Regulations 1985 (SR 1985/48): regulation 42(2)
 
-Minimum Wage Act 1983 (1983 No 115): [section 14][39]
+Minimum Wage Act 1983 (1983 No 115): [section 14][63]
 
 Apprenticeship Act 1983 (1983 No 16): section 58(2)
 
-Friendly Societies and Credit Unions Act 1982 (1982 No 118): [section 161(2) ][40]
+Friendly Societies and Credit Unions Act 1982 (1982 No 118): [section 161(2) ][64]
 
-New Zealand Railways Corporation Act 1981 (1981 No 119): [section 120(1)][41]
+New Zealand Railways Corporation Act 1981 (1981 No 119): [section 120(1)][65]
 
 Factories and Commercial Premises Act 1981 (1981 No 25): section 74
 
-Fencing Act 1978 (1978 No 50): [section 28(1)][42]
+Fencing Act 1978 (1978 No 50): [section 28(1)][66]
 
 Reserve Bank of New Zealand Amendment Act 1977 (1977 No 68): section 5(3)(e)
 
-Citizenship Act 1977 (1977 No 61): [section 30(2)][43]
+Citizenship Act 1977 (1977 No 61): [section 30(2)][67]
 
 Agricultural Workers Act 1977 (1977 No 43): section 62(1)(b)
 
-Tokelau Amendment Act 1976 (1976 No 122):[section 3(8)][15]
+Tokelau Amendment Act 1976 (1976 No 122):[section 3(8)][68]
 
 Income Tax Act 1976 (1976 No 65): section 436(1)
 
@@ -515,7 +515,7 @@ Racing Act 1971 (1971 No 155): section 106(5)
 
 Mining Act 1971 (1971 No 25): section 247(1)
 
-[0]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM195466#DLM195466
 [1]: http://www.legislation.govt.nz/act/public/1970/0137/latest/whole.html#DLM396481
 [2]: http://www.legislation.govt.nz/act/public/1970/0137/latest/whole.html#DLM396483
 [3]: http://www.legislation.govt.nz/act/public/1970/0137/latest/whole.html#DLM396484
@@ -531,21 +531,21 @@ Mining Act 1971 (1971 No 25): section 247(1)
 [13]: http://www.legislation.govt.nz/act/public/1970/0137/latest/whole.html#DLM396851
 [14]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM94263
 [15]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM439964
-[16]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM292660
-[17]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM367767
-[18]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM385591
-[19]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM305839
-[20]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM144405
-[21]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM250585
-[22]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM242775
-[23]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM224191
-[24]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM341044
-[25]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM292027
-[26]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM392349
-[27]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM267064
-[28]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM242153
-[29]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM175701
-[30]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM304703
+[16]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM292660#DLM292660
+[17]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM367767#DLM367767
+[18]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM385591#DLM385591
+[19]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM305839#DLM305839
+[20]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM144405#DLM144405
+[21]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM250585#DLM250585
+[22]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM242775#DLM242775
+[23]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM224191#DLM224191
+[24]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM341044#DLM341044
+[25]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM292027#DLM292027
+[26]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM392349#DLM392349
+[27]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM267064#DLM267064
+[28]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM242153#DLM242153
+[29]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM175701#DLM175701
+[30]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM304703#DLM304703
 [31]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM346420
 [32]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM385161
 [33]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM380186
@@ -559,13 +559,28 @@ Mining Act 1971 (1971 No 25): section 247(1)
 [41]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM58277
 [42]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM21887
 [43]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM444037
-[44]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM18863
-[45]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM3044
+[44]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM18863#DLM18863
+[45]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM3044#DLM3044
 [46]: http://www.legislation.govt.nz/act/public/1970/0137/latest/whole.html#DLM396857
 [47]: http://www.legislation.govt.nz/act/public/1970/0137/latest/whole.html#DLM396854
-[48]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM262442
+[48]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM262442#DLM262442
 [49]: http://www.pco.parliament.govt.nz/reprints/
-[50]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM195439
+[50]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM195439#DLM195439
 [51]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[52]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM195468
-[53]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM195470
+[52]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM195468#DLM195468
+[53]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM195470#DLM195470
+[54]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM346420#DLM346420
+[55]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM385161#DLM385161
+[56]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM380186#DLM380186
+[57]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM364791#DLM364791
+[58]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM293026#DLM293026
+[59]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM279941#DLM279941
+[60]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM118792#DLM118792
+[61]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM100561#DLM100561
+[62]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM94263#DLM94263
+[63]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM74464#DLM74464
+[64]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM61310#DLM61310
+[65]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM58277#DLM58277
+[66]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM21887#DLM21887
+[67]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM444037#DLM444037
+[68]: http://www.legislation.govt.nz/act/public/1970/0137/latest/link.aspx?id=DLM439964#DLM439964
