@@ -45,7 +45,7 @@ I \[_here insert the name of the Sovereign_\] do solemnly and sincerely in the p
 [1]: http://www.legislation.govt.nz/act/imperial/1910/0029/latest/whole.html#DLM12654
 [2]: http://www.legislation.govt.nz/act/imperial/1910/0029/latest/whole.html#DLM12655
 [3]: http://www.legislation.govt.nz/act/imperial/1910/0029/latest/whole.html#DLM12656
-[4]: http://www.legislation.govt.nz/act/imperial/1910/0029/latest/link.aspx?id=DLM11115
+[4]: http://www.legislation.govt.nz/act/imperial/1910/0029/latest/link.aspx?id=DLM11115#DLM11115
 [5]: http://www.legislation.govt.nz/act/imperial/1910/0029/latest/link.aspx?id=DLM10992
-[6]: http://www.legislation.govt.nz/act/imperial/1910/0029/latest/link.aspx?id=DLM11138
+[6]: http://www.legislation.govt.nz/act/imperial/1910/0029/latest/link.aspx?id=DLM11138#DLM11138
 [7]: http://www.legislation.govt.nz/act/imperial/1910/0029/latest/link.aspx?id=DLM11130
