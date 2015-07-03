@@ -489,7 +489,7 @@ In outline, the editorial changes made in reprints under the authority of [secti
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
 
-* Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][26]
+* Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][41]
 
 Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][32]
 
@@ -497,11 +497,11 @@ Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 1
 
 Births, Deaths, and Marriages Registration Act 1995 (1995 No 16): [section 95][28]
 
-[Adult Adoption Information Amendment Act 1991][41] (1991 No 94)
+[Adult Adoption Information Amendment Act 1991][42] (1991 No 94)
 
 Social Welfare (Transitional Provisions) Act 1990 (1990 No 26): [section 36(2)][29]
 
-[0]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM195466#DLM195466
 [1]: http://www.legislation.govt.nz/act/public/1985/0127/latest/whole.html#DLM80515
 [2]: http://www.legislation.govt.nz/act/public/1985/0127/latest/whole.html#DLM80517
 [3]: http://www.legislation.govt.nz/act/public/1985/0127/latest/whole.html#DLM80518
@@ -523,23 +523,24 @@ Social Welfare (Transitional Provisions) Act 1990 (1990 No 26): [section 36(2)][
 [19]: http://www.legislation.govt.nz/act/public/1985/0127/latest/whole.html#DLM80589
 [20]: http://www.legislation.govt.nz/act/public/1985/0127/latest/whole.html#DLM80590
 [21]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM292660
-[22]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM364145
+[22]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM364145#DLM364145
 [23]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM147087
 [24]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM359368
-[25]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM129718
+[25]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM129718#DLM129718
 [26]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM1048943
 [27]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM31416
 [28]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM364790
 [29]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM204518
-[30]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM364718
-[31]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM204329
+[30]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM364718#DLM364718
+[31]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM204329#DLM204329
 [32]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM205009
 [33]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM64784
 [34]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM248759
-[35]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM292664
+[35]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM292664#DLM292664
 [36]: http://www.pco.parliament.govt.nz/reprints/
-[37]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM195439
+[37]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM195439#DLM195439
 [38]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[39]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM195468
-[40]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM195470
-[41]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM248757
+[39]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM195468#DLM195468
+[40]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM195470#DLM195470
+[41]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM1048943#DLM1048943
+[42]: http://www.legislation.govt.nz/act/public/1985/0127/latest/link.aspx?id=DLM248757#DLM248757
