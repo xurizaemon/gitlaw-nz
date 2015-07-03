@@ -123,9 +123,9 @@ Section 3(2): replaced, on 9 October 1975, by section 2 of the Admiralty Amendme
 
 Section 3(3): inserted, on 9 October 1975, by section 2 of the Admiralty Amendment Act 1975 (1975 No 57).
 
-Section 3(3): amended, on 1 April 1980, pursuant to [section 18(2)][17] of the District Courts Amendment Act 1979 (1979 No 125).
+Section 3(3): amended, on 1 April 1980, pursuant to [section 18(2)][28] of the District Courts Amendment Act 1979 (1979 No 125).
 
-Section 3(3): amended, on 1 April 1980, pursuant to [section 12][18] of the Judicature Amendment Act 1979 (1979 No 124).
+Section 3(3): amended, on 1 April 1980, pursuant to [section 12][29] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 4 Extent of admiralty jurisdiction
 
@@ -138,13 +138,13 @@ Section 3(3): amended, on 1 April 1980, pursuant to [section 12][18] of the Judi
   * (f) any claim for loss of life or personal injury sustained in consequence of any defect in a ship or in her apparel or equipment, or of the wrongful act, neglect, or default of the owners, charterers, or persons in possession or control of a ship or of the master or crew thereof or of any other person for whose wrongful acts, neglects, or defaults the owners, charterers, or persons in possession or control of a ship are responsible, being an act, neglect, or default in the navigation or management of the ship, in the loading, carriage, or discharge of goods on, in, or from the ship or in the embarkation, carriage, or disembarkation of persons on, in, or from the ship:
   * (g) any claim for loss of or damage to goods carried in a ship:
   * (h) any claim arising out of any agreement relating to the carriage of goods in a ship or to the use or hire of a ship:
-  * (i) any claim in the nature of salvage (including claims for services rendered in saving life from a ship or an aircraft or in preserving its cargo, apparel, or wreck pursuant to the provisions of [Part 17][28] of the Maritime Transport Act 1994 or any maritime rules made in relation to salvage):
+  * (i) any claim in the nature of salvage (including claims for services rendered in saving life from a ship or an aircraft or in preserving its cargo, apparel, or wreck pursuant to the provisions of [Part 17][30] of the Maritime Transport Act 1994 or any maritime rules made in relation to salvage):
   * (j) any claim in the nature of towage in respect of a ship or an aircraft:
   * (k) any claim in the nature of pilotage in respect of a ship or an aircraft:
   * (l) any claim in respect of goods, materials, or services (including stevedoring and lighterage services) supplied or to be supplied to a ship in its operation or maintenance:
   * (m) any claim in respect of the construction, repair, or equipment of a ship or for dock or port or harbour charges or dues:
   * (n) \[Repealed\]
-  * (o) any claim by a master or member of the crew of a ship for wages, and any claim by or in respect of a master or member of the crew of a ship for any money or property which, under any of the provisions of the [Maritime Transport Act 1994][29], is recoverable as wages or in the court and in the manner in which wages may be recovered:
+  * (o) any claim by a master or member of the crew of a ship for wages, and any claim by or in respect of a master or member of the crew of a ship for any money or property which, under any of the provisions of the [Maritime Transport Act 1994][31], is recoverable as wages or in the court and in the manner in which wages may be recovered:
   * (p) any claim by a master, shipper, charterer, or agent in respect of disbursements made on account of a ship:
   * (q) any claim arising out of an act which is or is claimed to be a general average act:
   * (r) any claim arising out of bottomry:
@@ -159,9 +159,9 @@ Section 3(3): amended, on 1 April 1980, pursuant to [section 12][18] of the Judi
   * (b) in relation to all claims, wheresoever arising (including, in the case of cargo or wreck salvage, claims in respect of cargo or wreck found on land):
   * (c) so far as they relate to mortgages and charges, to all mortgages or charges, whether registered or not, and whether legal or equitable, and whether fixed or floating, including mortgages and charges created under the law of any other country:
 
-provided that nothing in this subsection shall be construed as extending the cases in which money or property is recoverable under any of the provisions of the [Maritime Transport Act 1994][29].
+provided that nothing in this subsection shall be construed as extending the cases in which money or property is recoverable under any of the provisions of the [Maritime Transport Act 1994][31].
 
-Section 4(1)(i): amended, on 9 June 1999, by [section 39][30] of the Maritime Transport Amendment Act 1999 (1999 No 68).
+Section 4(1)(i): amended, on 9 June 1999, by [section 39][32] of the Maritime Transport Amendment Act 1999 (1999 No 68).
 
 Section 4(1)(i): amended, on 1 February 1995, by [section 203][24] of the Maritime Transport Act 1994 (1994 No 104).
 
@@ -189,7 +189,7 @@ provided that---
 
 (3) Where in the exercise of its admiralty jurisdiction the court orders any ship or other property to be sold, the court shall have jurisdiction to hear and determine any question arising as to the title to the proceeds of sale.
 
-Section 5(1): amended, on 1 April 1980, pursuant to [section 12][18] of the Judicature Amendment Act 1979 (1979 No 124).
+Section 5(1): amended, on 1 April 1980, pursuant to [section 12][29] of the Judicature Amendment Act 1979 (1979 No 124).
 
 Section 5(2): amended, on 1 February 1995, by [section 203][24] of the Maritime Transport Act 1994 (1994 No 104).
 
@@ -231,7 +231,7 @@ Section 7: amended, on 1 February 1995, by [section 203][24] of the Maritime Tra
 
 Section 8 heading: amended, on 1 April 1980, pursuant to [section 12][18] of the Judicature Amendment Act 1979 (1979 No 124).
 
-Section 8(1): amended, on 1 April 1980, pursuant to [section 12][18] of the Judicature Amendment Act 1979 (1979 No 124).
+Section 8(1): amended, on 1 April 1980, pursuant to [section 12][29] of the Judicature Amendment Act 1979 (1979 No 124).
 
 Section 8(3): amended, on 1 April 1980, pursuant to [section 12][18] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -241,27 +241,27 @@ Section 8(3): amended, on 1 April 1980, pursuant to [section 12][18] of the Judi
 
 (2) The Registrar shall execute, by himself or by his appointed officers or agents, all instruments issued from the court which are addressed to him, and shall make returns thereof.
 
-Section 9(1): amended, on 1 April 1980, pursuant to [section 12][18] of the Judicature Amendment Act 1979 (1979 No 124).
+Section 9(1): amended, on 1 April 1980, pursuant to [section 12][29] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 10 Act to bind the Crown
 
-* Subject to [section 28][31] of the Crown Proceedings Act 1950, relating to the exclusion of actions _in rem_ against the Crown, this Act shall bind the Crown.
+* Subject to [section 28][33] of the Crown Proceedings Act 1950, relating to the exclusion of actions _in rem_ against the Crown, this Act shall bind the Crown.
 
 ##### 11 Rules of procedure and regulations as to fees
 
-* (1) Rules for the practice and procedure of the High Court in its admiralty jurisdiction may be made in the same manner as is provided in the [Judicature Act 1908][32] for the making of rules for practice and procedure in the High Court.
+* (1) Rules for the practice and procedure of the High Court in its admiralty jurisdiction may be made in the same manner as is provided in the [Judicature Act 1908][34] for the making of rules for practice and procedure in the High Court.
 
-(2) Rules for the practice and procedure of the District Courts in their admiralty jurisdiction may be made by the Governor-General from time to time, by Order-in-Council, pursuant to [section 122][33] of the District Courts Act 1947\.
+(2) Rules for the practice and procedure of the District Courts in their admiralty jurisdiction may be made by the Governor-General from time to time, by Order-in-Council, pursuant to [section 122][35] of the District Courts Act 1947\.
 
 (3) Without derogating from the provisions of subsections (1) and (2), rules may be made pursuant to those subsections for consolidation of actions, the appointment of court experts, or the giving of bail or other security to prevent the arrest of a ship or other _res_, or to obtain the release of the same after arrest.
 
 (4) The Governor-General may from time to time, by Order in Council, prescribe all fees payable under this Act.
 
-Section 11(1): amended, on 1 April 1980, pursuant to [section 12][18] of the Judicature Amendment Act 1979 (1979 No 124).
+Section 11(1): amended, on 1 April 1980, pursuant to [section 12][29] of the Judicature Amendment Act 1979 (1979 No 124).
 
 Section 11(2): amended, on 1 April 1980, pursuant to [section 2(3)][27] of the District Courts Amendment Act 1979 (1979 No 125).
 
-Section 11(2): amended, on 1 April 1980, pursuant to [section 18(2)][17] of the District Courts Amendment Act 1979 (1979 No 125).
+Section 11(2): amended, on 1 April 1980, pursuant to [section 18(2)][28] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 12 Transfer of proceedings from or to admiralty jurisdiction
 
@@ -271,19 +271,19 @@ Section 11(2): amended, on 1 April 1980, pursuant to [section 18(2)][17] of the 
 
 * (1) A party to proceedings in a District Court in its admiralty jurisdiction may appeal to the High Court against any decision of the District Court.
 
-(1A) The [High Court Rules][34] and [sections 73 to 78][35] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][36] of that Act.
+(1A) The [High Court Rules][36] and [sections 73 to 78][37] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][38] of that Act.
 
-(2) The provisions of the [Judicature Act 1908][32] relating to appeals to the Court of Appeal against a decision of the High Court of New Zealand shall apply with respect to a decision of the High Court of New Zealand in its admiralty jurisdiction.
+(2) The provisions of the [Judicature Act 1908][34] relating to appeals to the Court of Appeal against a decision of the High Court of New Zealand shall apply with respect to a decision of the High Court of New Zealand in its admiralty jurisdiction.
 
 (3) \[Repealed\]
 
-Section 13(1): replaced, on 24 November 2003, by [section 4][37] of the District Courts Amendment Act 2002 (2002 No 63).
+Section 13(1): replaced, on 24 November 2003, by [section 4][39] of the District Courts Amendment Act 2002 (2002 No 63).
 
-Section 13(1A): inserted, on 24 November 2003, by [section 4][37] of the District Courts Amendment Act 2002 (2002 No 63).
+Section 13(1A): inserted, on 24 November 2003, by [section 4][39] of the District Courts Amendment Act 2002 (2002 No 63).
 
-Section 13(2): amended, on 1 April 1980, pursuant to [section 12][18] of the Judicature Amendment Act 1979 (1979 No 124).
+Section 13(2): amended, on 1 April 1980, pursuant to [section 12][29] of the Judicature Amendment Act 1979 (1979 No 124).
 
-Section 13(3): repealed, on 1 January 2004, by [section 48(2)][38] of the Supreme Court Act 2003 (2003 No 53).
+Section 13(3): repealed, on 1 January 2004, by [section 48(2)][40] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 14 Repeals and amendments
 
@@ -295,7 +295,7 @@ Section 13(3): repealed, on 1 January 2004, by [section 48(2)][38] of the Suprem
 
 (4) \[Repealed\]
 
-Section 14(2): amended, on 1 January 1987, pursuant to [section 29(2)][39] of the Constitution Act 1986 (1986 No 114).
+Section 14(2): amended, on 1 January 1987, pursuant to [section 29(2)][41] of the Constitution Act 1986 (1986 No 114).
 
 Section 14(4): repealed, on 11 June 1985, by section 2(2) of the Legislature Amendment Act 1985 (1985 No 91).
 
@@ -342,21 +342,21 @@ Enactments of the Parliament of England or of the United Kingdom ceasing to have
 
 * This is a reprint of the Admiralty Act 1973\. The reprint incorporates all the amendments to the Act as at 1 January 2004, as specified in the list of amendments at the end of these notes.
 
-Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][40] ![](/images/external_link.gif).
+Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][42] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
 
-* Under [section 16D][41] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+* Under [section 16D][43] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
 
 This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
 
-* A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][42] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+* A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][44] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
 
-* [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][43] and [17E][44] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+* [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][45] and [17E][46] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
 
 A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
 
@@ -380,19 +380,19 @@ In outline, the editorial changes made in reprints under the authority of [secti
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
 
-* Supreme Court Act 2003 (2003 No 53): [section 48(2)][38]
+* Supreme Court Act 2003 (2003 No 53): [section 48(2)][47]
 
-District Courts Amendment Act 2002 (2002 No 63): [section 4][37]
+District Courts Amendment Act 2002 (2002 No 63): [section 4][48]
 
-Maritime Transport Amendment Act 1999 (1999 No 68): [section 39][30]
+Maritime Transport Amendment Act 1999 (1999 No 68): [section 39][49]
 
 Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
 
-Maritime Transport Act 1994 (1994 No 104): [section 203][24]
+Maritime Transport Act 1994 (1994 No 104): [section 203][50]
 
 Civil Aviation Act 1990 (1990 No 98): [section 101(1)][23]
 
-Constitution Act 1986 (1986 No 114): [section 29(2)][39]
+Constitution Act 1986 (1986 No 114): [section 29(2)][51]
 
 Legislature Amendment Act 1985 (1985 No 91): section 2(2)
 
@@ -400,13 +400,13 @@ District Courts Amendment Act 1979 (1979 No 125): [sections 2(3), 18(2)][27]
 
 Judicature Amendment Act 1979 (1979 No 124): [section 12][18]
 
-Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (1977 No 28): [section 33(2)(a)][25]
+Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (1977 No 28): [section 33(2)(a)][52]
 
-[Admiralty Act Commencement Order 1976][19] (SR 1976/194)
+[Admiralty Act Commencement Order 1976][53] (SR 1976/194)
 
 Admiralty Amendment Act 1975 (1975 No 57)
 
-[0]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM195466#DLM195466
 [1]: http://www.legislation.govt.nz/act/public/1973/0119/latest/whole.html#DLM411615
 [2]: http://www.legislation.govt.nz/act/public/1973/0119/latest/whole.html#DLM411617
 [3]: http://www.legislation.govt.nz/act/public/1973/0119/latest/whole.html#DLM411618
@@ -423,31 +423,40 @@ Admiralty Amendment Act 1975 (1975 No 57)
 [14]: http://www.legislation.govt.nz/act/public/1973/0119/latest/whole.html#DLM411670
 [15]: http://www.legislation.govt.nz/act/public/1973/0119/latest/whole.html#DLM411676
 [16]: http://www.legislation.govt.nz/act/public/1973/0119/latest/whole.html#DLM411678
-[17]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM35085
-[18]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM35049
+[17]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM35085#DLM35085
+[18]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM35049#DLM35049
 [19]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM50023
 [20]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM214686
-[21]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM336722
-[22]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM442665
-[23]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM218728
+[21]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM336722#DLM336722
+[22]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM442665#DLM442665
+[23]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM218728#DLM218728
 [24]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM336920
 [25]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM442752
-[26]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM243611
-[27]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM35057
-[28]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM336935
-[29]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM334659
-[30]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM30592
-[31]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM261981
-[32]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM144692
-[33]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM244468
-[34]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM147653
-[35]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM243901
-[36]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM243795
-[37]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM168713
-[38]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM214522
-[39]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM94263
-[40]: http://www.pco.parliament.govt.nz/reprints/
-[41]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM195439
-[42]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[43]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM195468
-[44]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM195470
+[26]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM243611#DLM243611
+[27]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM35057#DLM35057
+[28]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM35085
+[29]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM35049
+[30]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM336935#DLM336935
+[31]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM334659
+[32]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM30592
+[33]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM261981#DLM261981
+[34]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM144692
+[35]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM244468#DLM244468
+[36]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM147653#DLM147653
+[37]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM243901#DLM243901
+[38]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM243795#DLM243795
+[39]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM168713
+[40]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM214522
+[41]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM94263
+[42]: http://www.pco.parliament.govt.nz/reprints/
+[43]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM195439#DLM195439
+[44]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[45]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM195468#DLM195468
+[46]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM195470#DLM195470
+[47]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM214522#DLM214522
+[48]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM168713#DLM168713
+[49]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM30592#DLM30592
+[50]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM336920#DLM336920
+[51]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM94263#DLM94263
+[52]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM442752#DLM442752
+[53]: http://www.legislation.govt.nz/act/public/1973/0119/latest/link.aspx?id=DLM50023#DLM50023
