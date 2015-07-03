@@ -318,7 +318,7 @@ In outline, the editorial changes made in reprints under the authority of [secti
 
 * 
 
-[0]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM195466#DLM195466
 [1]: http://www.legislation.govt.nz/act/private/1972/0008/latest/whole.html#DLM107871
 [2]: http://www.legislation.govt.nz/act/private/1972/0008/latest/whole.html#DLM107872
 [3]: http://www.legislation.govt.nz/act/private/1972/0008/latest/whole.html#DLM107875
@@ -329,16 +329,16 @@ In outline, the editorial changes made in reprints under the authority of [secti
 [8]: http://www.legislation.govt.nz/act/private/1972/0008/latest/whole.html#DLM107889
 [9]: http://www.legislation.govt.nz/act/private/1972/0008/latest/whole.html#DLM107890
 [10]: http://www.legislation.govt.nz/act/private/1972/0008/latest/whole.html#DLM107891
-[11]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM304703
-[12]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM308795
-[13]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM381490
-[14]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM394879
-[15]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM394887
-[16]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM269031
-[17]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM394841
-[18]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM394885
+[11]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM304703#DLM304703
+[12]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM308795#DLM308795
+[13]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM381490#DLM381490
+[14]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM394879#DLM394879
+[15]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM394887#DLM394887
+[16]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM269031#DLM269031
+[17]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM394841#DLM394841
+[18]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM394885#DLM394885
 [19]: http://www.pco.parliament.govt.nz/reprints/
-[20]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM195439
+[20]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM195439#DLM195439
 [21]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[22]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM195468
-[23]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM195470
+[22]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM195468#DLM195468
+[23]: http://www.legislation.govt.nz/act/private/1972/0008/latest/link.aspx?id=DLM195470#DLM195470
